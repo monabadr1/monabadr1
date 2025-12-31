@@ -1,37 +1,66 @@
+<h1 align="center">
+  Hi There, I'm Mona Badr 
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+</h1>
 
-<h1>Hi There, I'm Mona Badr <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<p align="center">
+  <b>Data Science Graduate | Machine Learning | .NET & API Development</b>
+</p>
 
-I'm a **Data Science Graduate** with a strong foundation in **Machine Learning, Data Analysis, and Deep Learning**, combined with hands-on experience in **.NET development**. I am passionate about building **data-driven applications, APIs, and intelligent systems** using Python, C#, Java, and modern frameworks. I love applying AI and data solutions to **real-world problems** and collaborating on interesting projects.
-## Skill Set :muscle:
+---
 
-These are some of the major technologies I use or have worked on:
+I'm a **Data Science Graduate** with a strong foundation in **Machine Learning, Data Analysis, and Deep Learning**,  
+combined with hands-on experience in **.NET development**.  
 
-**Programming Languages**
+I enjoy building **data-driven applications, APIs, and intelligent systems** using  
+**Python, C#, Java, and modern frameworks**, and applying AI solutions to **real-world problems**.
 
-<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="C#" title="C#" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/csharp/csharp.png">|<img alt="Java" title="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png">|<img alt="SQL" title="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">|<img alt="SQL Server" title="SQL Server" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Microsoft_SQL_Server_Logo.png">
-|--|--|--|--|--|
+---
 
-**Libraries and Frameworks**
+## 🚀 Skill Set
 
-<img title="TensorFlow" alt="TensorFlow" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png">|<img title="Keras" alt="Keras" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/240px-Keras_logo.svg.png">|<img title="Scikit-Learn" alt="Scikit Learn" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/scikit-learn/scikit-learn.png">|<img title="OpenCV" alt="OpenCV" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png">
-|--|--|--|--|
+### 🧠 Programming Languages
+| Python | C# | Java | SQL |
+|------|----|------|-----|
+| <img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" width="40"/> | <img src="https://raw.githubusercontent.com/github/explore/master/topics/csharp/csharp.png" width="40"/> | <img src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" width="40"/> | <img src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png" width="40"/> |
 
-**Data & Analytics Tools**
+---
 
-<img title="Power BI" alt="Power BI" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.png">|<img title="Excel" alt="Excel" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/excel/excel.png">|<img title="Jupyter Notebook" alt="Jupyter Notebook" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png">|<img title="Google Colab" alt="Google Colab" width="40px" src="https://colab.research.google.com/img/colab_favicon_256px.png">
-|--|--|--|--|
+### 📚 Libraries & Frameworks
+| TensorFlow | Keras | Scikit-Learn | OpenCV |
+|-----------|-------|--------------|--------|
+| <img src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png" width="40"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="40"/> | <img src="https://raw.githubusercontent.com/github/explore/master/topics/scikit-learn/scikit-learn.png" width="40"/> | <img src="https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png" width="40"/> |
 
-**Tools & IDEs**
+---
 
-<img title="Git" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">|<img title="Visual Studio" alt="Visual Studio" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Microsoft_Visual_Studio_2022_logo.svg">|<img title=".NET" alt=".NET" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/dotnet/dotnet.png">
-|--|--|--|
+### 📊 Data & Analytics Tools
+| Power BI | Excel | Jupyter | Google Colab |
+|--------|-------|---------|--------------|
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.png" width="40"/> | <img src="https://raw.githubusercontent.com/github/explore/master/topics/excel/excel.png" width="40"/> | <img src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png" width="40"/> | <img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="40"/> |
 
-## Some of my stats :bar_chart:
+---
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&include_all_commits=true">
+### 🛠 Tools & IDEs
+| Git | VS Code | .NET |
+|----|---------|------|
+| <img src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" width="40"/> | <img src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" width="40"/> | <img src="https://raw.githubusercontent.com/github/explore/master/topics/dotnet/dotnet.png" width="40"/> |
 
-## Let's Connect :handshake:
+---
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="https://www.kaggle.com/YOUR_KAGGLE/"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="40"></a>
-|--|--|
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&include_all_commits=true">
+</p>
 
+---
+
+## 🤝 Let's Connect
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+    <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.kaggle.com/YOUR_KAGGLE/">
+    <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="40">
+  </a>
+</p>
