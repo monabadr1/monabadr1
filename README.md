@@ -48,10 +48,10 @@ I’m always eager to learn new technologies and collaborate on impactful projec
 ---
 
 ## 🤝 Let's Connect
-<a href="[https://www.linkedin.com/in/YOUR_LINKEDIN/](https://www.linkedin.com/in/mona-badr1/)">
+<a href="https://www.linkedin.com/in/mona-badr1/">
   <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40">
 </a>
 &nbsp;
-<a href="[https://www.kaggle.com/YOUR_KAGGLE/](https://www.kaggle.com/monabadrmostafa)">
+<a href="https://www.kaggle.com/monabadrmostafa">
   <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="40">
 </a>
