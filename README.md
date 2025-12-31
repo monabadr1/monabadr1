@@ -1,19 +1,14 @@
-<h1 align="center">
+<h1>
   Hi There, I'm Mona Badr 
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 </h1>
 
-<p align="center">
-  <b>Data Science Graduate | Machine Learning | .NET & API Development</b>
-</p>
+Data Science Graduate with a strong background in Machine Learning, Data Analysis, and Deep Learning,  
+along with practical experience in .NET and API development.  
 
----
-
-I'm a **Data Science Graduate** with a strong foundation in **Machine Learning, Data Analysis, and Deep Learning**,  
-combined with hands-on experience in **.NET development**.  
-
-I enjoy building **data-driven applications, APIs, and intelligent systems** using  
-**Python, C#, Java, and modern frameworks**, and applying AI solutions to **real-world problems**.
+I enjoy building data-driven applications and intelligent systems using Python, C#, and Java,  
+and applying AI and analytics to solve real-world problems.  
+I’m always eager to learn new technologies and collaborate on impactful projects.
 
 ---
 
@@ -48,19 +43,15 @@ I enjoy building **data-driven applications, APIs, and intelligent systems** usi
 ---
 
 ## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&include_all_commits=true">
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&include_all_commits=true">
 
 ---
 
 ## 🤝 Let's Connect
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-    <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.kaggle.com/YOUR_KAGGLE/">
-    <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="40">
-  </a>
-</p>
+<a href="[https://www.linkedin.com/in/YOUR_LINKEDIN/](https://www.linkedin.com/in/mona-badr1/)">
+  <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40">
+</a>
+&nbsp;
+<a href="[https://www.kaggle.com/YOUR_KAGGLE/](https://www.kaggle.com/monabadrmostafa)">
+  <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="40">
+</a>
